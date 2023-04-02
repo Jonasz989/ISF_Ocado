@@ -1,0 +1,14 @@
+[
+  {
+    "orderId": "order-1",
+    "orderValue": "0.00",
+    "pickingTime": "PT20M",
+    "completeBy": "09:30"
+  },
+  {
+    "orderId": "order-2",
+    "orderValue": "0.00",
+    "pickingTime": "PT20M",
+    "completeBy": "09:30"
+  }
+]
